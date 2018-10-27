@@ -1,0 +1,20 @@
+.tcf-slider-wrap,
+.tcf-slider-wrap:before,
+.tcf-slider-wrap:after {
+	clear: both;
+	float: none;
+}
+.tcf-slider-wrap {
+	border-radius: $border-radius;
+	border: $border_standard;
+	overflow: hidden;
+	height: auto;
+	width: 100%;
+	position: relative;
+	-webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}

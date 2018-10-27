@@ -1,0 +1,29 @@
+.tcf-slider-crumb-wrap {
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	font-size: 2em;
+	text-align: center;
+}
+.tcf-slider-crumb {
+	cursor: pointer;
+	outline: none;
+	color: #333;
+	margin-right: 5px;
+}
+.tcf-slider-crumb:last-child {
+	margin-right: 0px;
+}
+.tcf-slider-crumb.active {
+	color: #F1F1F1;
+}
+.tcf-slider-crumb:hover:before,
+.tcf-slider-crumb:focus:before {
+	content:  "\02023";
+	position: absolute;
+	top: -15px;
+	-ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+  transform: rotate(90deg);
+}
+
