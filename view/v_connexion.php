@@ -277,7 +277,7 @@
       <div class="item active">
         <img src="img/1.Potager.jpg"  style="width:100%;">
          <div class="carousel-caption" >
-         <h3 style="font-size:1.5em;font-style:Montserrat;">Nous sommes en charge du potager collaboratif de l'UTT. </br>En plus de cultiver des fruits et légumes, 
+         <h3>Nous sommes en charge du potager collaboratif de l'UTT. </br>En plus de cultiver des fruits et légumes, 
             nous voulons profiter de cette terre pour sensibiliser les étudiants aux techniques d'agriculture éco-responsable.</h3>
         </div>
       </div>
@@ -285,7 +285,7 @@
       <div class="item">
         <img src="img/2.ecopaniers.jpg"  style="width:100%;">
         <div class="carousel-caption">
-        <h3 style="font-size:1.5em;font-style:Montserrat;">Chaque semestre, nous vendons des fruits et légumes locaux et le plus souvent bios au personnel et étudiants de l'UTT.</br>
+        <h3>Chaque semestre, nous vendons des fruits et légumes locaux et le plus souvent bios au personnel et étudiants de l'UTT.</br>
             Nous les complétons parfois avec les récoltes du potager !.</h3>
         </div>
       </div>
@@ -294,7 +294,7 @@
       <div class="item">
         <img src="img/3.autres-events.jpg" style="width:100%;">
         <div class="carousel-caption">
-        <h3 style="font-size:1.5em;font-style:Montserrat;">Nous sommes également présents sur plusieurs évnènements de l'agglomération et de Campus 3 tout au long de l'années :</br>
+        <h3>Nous sommes également présents sur plusieurs évnènements de l'agglomération et de Campus 3 tout au long de l'années :</br>
          Nuits de Champagne, Nuit Campus 3, Clés de Troyes, et d'autres encore !
 
         </div>
@@ -303,7 +303,7 @@
       <div class="item">
         <img src="img/4.films_debats.png" style="width:100%;">
         <div class="carousel-caption">
-            <h3 style="font-size:1.5em;font-style:Montserrat;">Nous organisons régulièrement des projections de films</br> et des débats autour des questions climatiques et du développement durable.
+            <h3>Nous organisons régulièrement des projections de films</br> et des débats autour des questions climatiques et du développement durable.
 
         </div>
       </div>
@@ -311,7 +311,7 @@
       <div class="item">
         <img src="img/5.radio_campus3.JPG" style="width:100%;">
         <div class="carousel-caption">
-        <h3 style="font-size:1.5em;font-style:Montserrat;">Nous sommes également présent sur les ondes avec des chroniques sur le développement durable sur Radio Campus 3 (88.7).</br>
+        <h3>Nous sommes également présent sur les ondes avec des chroniques sur le développement durable sur Radio Campus 3 (88.7).</br>
          La radio des étudiants de l'agglomération Troyenne.
 
 
