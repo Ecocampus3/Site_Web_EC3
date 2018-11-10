@@ -347,7 +347,7 @@
             </div>
             <div class="contact-section">
             <div class="container">
-                <form>
+               <form action="" method="post">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                         <div class="form-group">
                             <input type="text" name="field1" class="form-control" id="" placeholder=" Entrer votre nom">
