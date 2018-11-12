@@ -179,7 +179,7 @@
     <div class="bande_info" >
         </br>
         <p style="font-style:italic;">Nous n'héritons pas de la terre de nos parents, nous l'empruntons à nos enfants</br></p>
-        <p>Antoine de Saint-Exupéry</br>Inspiration d’innovutt : https://www.innovutt.fr/</p>
+        <p>Antoine de Saint-Exupéry</br></p>
         </br>
     </div>
         <div id="asso">
