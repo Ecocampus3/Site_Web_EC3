@@ -78,7 +78,7 @@
                              <li>
                                 <a href="#user" data-toggle="modal" data-target="#log"><i class="fa fa-user"></i></a>
                             </li>
-                            <li><a href="#shop"><i class="fa fa-shopping-cart fa-lg"></i></a>
+                            <li><a href="https://ecopaniers.assos.utt.fr/"><i class="fa fa-shopping-cart fa-lg"></i></a>
                             </li>
                         </ul>
                     </div>
